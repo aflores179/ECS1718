@@ -2,6 +2,31 @@ body { background-image: url(https://metrouk2.files.wordpress.com/2017/02/shutte
           
 }
 body { background-repeat: no-repeat; }
-h1{ color: white }
-body { background-size: 1000px 1000px }
+h1{ color: white ;
+    font-size:50px;
+}
+body { background-size: 2000px 1055px }
 hr { color: white;}
+.three{ border-style:solid;
+        border-color:#ADD8E6;
+        border:5;
+        background-color:#cb959d;
+        }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+h2{color:white;
+    font-size: 35px
+}
+h4 {
+    background-color:#adbce6;
+    color:#f7f7f7;
+    font-size:30px
+}
+a { color:#dedede ;}
+h3 { color:#dedede;
+    font-size: 25px;
+}
